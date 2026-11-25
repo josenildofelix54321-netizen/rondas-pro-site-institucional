@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josenildofelix54321-netizen.github.io/rondas-pro-site-institucional/sitemap.xml
